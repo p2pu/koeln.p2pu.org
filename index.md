@@ -1,5 +1,6 @@
 ---
 layout: index
+header_image: landing-banner.jpg 
 header_text: Stadtbibliothek Köln & P2PU
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
 hero: 'Lernteams - eine neuartige Lernmethode in der Stadtbibliothek Köln
