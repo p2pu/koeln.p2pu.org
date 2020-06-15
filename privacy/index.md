@@ -8,8 +8,6 @@ bundles:
 
 Dies ist eine Übersetzung der englischen Datenschutzerklärung. Das Original finden Sie [hier](https://www.p2pu.org/en/privacy/).
 
-Übersetzung: Juliana Pranke, Zentral- und Landesbibliothek Berlin, 2019
-
 <hr/>
 
 Peer 2 Peer University (P2PU) geht sorgsam mit den persönlichen Daten seiner Nutzer\*innen um. Diese Datenschutzrichtlinien erläutern die Erfassung, Verwendung und Weitergabe von personenbezogenen Daten auf allen Webseiten und Webservices, die von P2PU betrieben werden, sofern die Webseite oder der Service keine gesonderten Datenschutzrichtlinien haben.
@@ -88,4 +86,7 @@ In dieser Richtlinie werden unter "personenbezogenen Informationen" Informatione
 Wenn Sie wissen möchten, welche Daten P2PU über Sie hat, eine Kopie dieser Daten erhalten möchten oder Ihre personenbezogenen Daten von P2PU gelöscht werden sollen, wenden Sie sich bitte an unsere\*n Datenschutzbeauftragte\*n, indem Sie eine E-Mail (auf Englisch) an privacy@p2pu.org senden oder Schreiben an PO Box 7775 # 44971, San Francisco, CA 94120, USA. 
 
 Zuletzt aktualisiert am 3. Mai 2019
+<hr/>
+
+Übersetzung: Juliana Pranke, Zentral- und Landesbibliothek Berlin, 2019
 

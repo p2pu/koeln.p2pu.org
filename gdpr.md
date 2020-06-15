@@ -35,5 +35,5 @@ gdpr_copy: >-
   Darüber hinaus haben Sie das Recht, eine Beschwerde an die behördlichen Datenschutzbeauftragten zu richten, wenn Sie der Meinung sind, dass die Verarbeitung personenbezogener Daten gegen die geltenden Bestimmungen über die Verarbeitung personenbezogener Daten verstößt.
 
 
-  Wenn Sie weitere Informationen wünschen, können Sie gerne unsere [Datenschutzrichtlinie](https://www.p2pu.org/privacy) oder die [Nutzungsbedingungen](https://www.p2pu.org/terms) einsehen oder uns unter privacy@p2pu.org kontaktieren.
+  Wenn Sie weitere Informationen wünschen, können Sie gerne unsere [Datenschutzrichtlinie](/privacy) oder die [Nutzungsbedingungen](/terms) einsehen oder uns unter privacy@p2pu.org kontaktieren.
 ---

@@ -9,8 +9,6 @@ bundles:
 
 Dies ist eine Übersetzung der englischen Nutzungsbedingungen. Das Original finden Sie [hier](https://www.p2pu.org/en/terms/).
 
-Übersetzung: Juliana Pranke, Zentral- und Landesbibliothek Berlin, 2019
-
 <hr/>
 
 Vielen Dank, dass Sie sich für die Peer 2 Peer University, Inc. (mit den verbundenen Unternehmen "P2PU" oder "We") entschieden haben, die auf der Website "www.p2pu.org" oder auf anderen Anwendungen und Diensten verfügbar sind, welche P2PU gehören oder von P2PU betrieben werden (zusammen und von hier an die "Dienstleistung(en)").
@@ -141,4 +139,5 @@ Die Dienstleistungen sind nicht für Personen unter 13 Jahren gedacht. Wenn du u
     2. Offenlegung. Die Dienstleistung wird von Peer 2 Peer University, Inc., PO BOX 7775 # 44971, San Francisco, CA 94120, USA, angeboten. E-Mail: admin@p2pu.org. Wenn Sie in Kalifornien ansässig sind, erhalten Sie möglicherweise die gleichen Informationen per E-Mail, indem Sie einen Brief mit Ihrer E-Mail-Adresse und einer Anfrage nach diesen Informationen an die oben genannte Adresse senden.
 
 Zuletzt aktualisiert am 2. Februar 2012
-
+<hr/>
+Übersetzung: Juliana Pranke, Zentral- und Landesbibliothek Berlin, 2019
