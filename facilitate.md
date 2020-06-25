@@ -13,7 +13,7 @@ resources:
   url: /courses
 - title: Moderatorenforum
   image: /assets/img/discourse.png
-  url: https://community.p2pu.org
+  url: https://community.p2pu.org/c/communities/p2pu-deutsch/71
   tag: forum
 - title: Weitere Moderationsressourcen (auf englisch)
   image: /assets/img/p2pu.jpeg
