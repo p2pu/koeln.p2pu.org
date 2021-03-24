@@ -14,5 +14,4 @@ search_title: Lernteams in der Stadtbibliothek Köln
 image_attribution: ''
 bundles:
 - style
-- index
 ---
