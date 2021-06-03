@@ -11,6 +11,18 @@ resources:
 - title: Kurse für Lernteams
   image: /assets/img/courses.gif
   url: /courses
+- title: "Handbuch für Moderierende - Teil 1: Lernteams kennenlernen"
+  image: /assets/img/handbook-1.png
+  url: '/assets/pdf/Germany Part 1 PDF merged.pdf'
+- title: "Handbuch für Moderierende - Teil 2: Selbstlernen/Eigenständiges Lernen"
+  image: /assets/img/handbook-2.png
+  url: '/assets/pdf/Germany Part 2 PDF merged.pdf'
+- title: "Handbuch für Moderierende - Teil 3: Lernteams moderieren"
+  image: /assets/img/handbook-3.png
+  url: '/assets/pdf/Germany Part 3 PDF merged.pdf'
+- title: "Handbuch für Moderierende - Teil 4: Virtuelle Lernteams"
+  image: /assets/img/handbook-4.png
+  url: '/assets/pdf/Germany Part 4 PDF merged.pdf'
 - title: Moderatorenforum
   image: /assets/img/discourse.png
   url: https://community.p2pu.org/c/communities/p2pu-deutsch/71
