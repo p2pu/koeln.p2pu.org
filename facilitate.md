@@ -34,6 +34,9 @@ resources:
   - title: Online-Version Handbücher 1 & 4
     url: https://stbibkoelnnicole.github.io/course-in-a-box/
     image: /assets/img/screenshot-2021-06-12-125651.png
+  - title: "Learning Circles: My Story"
+    url: https://www.youtube.com/watch?v=Ip1d07GCbCw&t=2s
+    image: /assets/img/gratisography-rainbow-wood.jpg
 layout: facilitate
 bundles:
   - style
