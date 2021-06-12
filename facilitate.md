@@ -33,7 +33,7 @@ resources:
     url: https://www.p2pu.org/en/facilitate
   - title: Online-Version Handbücher 1 & 4
     url: https://stbibkoelnnicole.github.io/course-in-a-box/
-    image: /assets/img/screenshot-2021-06-12-121215.png
+    image: /assets/img/screenshot-2021-06-12-125651.png
 layout: facilitate
 bundles:
   - style
