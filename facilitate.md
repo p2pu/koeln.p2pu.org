@@ -37,6 +37,18 @@ resources:
   - title: "Learning Circles: My Story"
     url: https://www.youtube.com/watch?v=Ip1d07GCbCw&t=2s
     image: /assets/img/gratisography-rainbow-wood.jpg
+  - title: "Lernteams: meine Geschichte"
+    url: https://youtu.be/aMjdPyZg9EA
+    image: /assets/img/gratisography-rainbow-wood.jpg
+  - title: Digitale Kompetenzen
+    url: https://youtu.be/IMV8wg_SOkw
+    image: /assets/img/erasmus-logo.svg
+  - title: Berufliche Interessen
+    url: https://youtu.be/kUMzyNqMAEo
+    image: /assets/img/erasmus-logo.svg
+  - title: Lernstil
+    url: https://youtu.be/q9hD6PSwxHw
+    image: /assets/img/erasmus-logo.svg
 layout: facilitate
 bundles:
   - style
