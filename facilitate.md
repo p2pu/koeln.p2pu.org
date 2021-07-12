@@ -41,7 +41,7 @@ resources:
     url: https://youtu.be/aMjdPyZg9EA
     image: /assets/img/gratisography-rainbow-wood.jpg
   - title: Vorbereitung für das Lernteam
-    url: https://docs.google.com/presentation/d/1hypv58FvpRgWabrY8FldXYQvCgquBsac/edit#slide=id.p1
+    url: https://docs.google.com/presentation/d/1S7mW9JIMw4NpLOTIvgaGeuxLdIslDj_j/edit#slide=id.p1
     image: /assets/img/erasmus-logo.svg
 layout: facilitate
 bundles:
