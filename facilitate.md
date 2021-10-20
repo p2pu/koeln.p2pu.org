@@ -43,6 +43,9 @@ resources:
   - title: Vorbereitung für das Lernteam
     url: https://docs.google.com/presentation/d/1S7mW9JIMw4NpLOTIvgaGeuxLdIslDj_j/edit#slide=id.p1
     image: /assets/img/erasmus-logo.svg
+  - title: Learning Circles in Libraries EU Projekt-Seite
+    url: https://frsi.org.pl/en/project/learning-circles-in-libraries-2/
+    image: /assets/img/lcil-logo.jpg
 layout: facilitate
 bundles:
   - style
